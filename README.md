@@ -1,2 +1,2 @@
-# symphony
+# Symphony
 Mobile Advertising Design System
