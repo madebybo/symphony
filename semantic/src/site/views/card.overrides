@@ -1,3 +1,12 @@
 /*******************************
     User Variable Overrides
 *******************************/
+
+// A site theme, not to be mistaken with site.variables a file located in every theme, is a special user 
+// theme that can be loaded on top of all other themes.
+
+// This is the best location to store changes that will be used on a single site. A site theme 
+// can be thought of as similar to a child theme in Wordpress.
+
+// Site theme files are optional includes and can be safely removed if you do not need to add 
+// additional changes to a component on your project.
